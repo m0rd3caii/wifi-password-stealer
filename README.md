@@ -27,7 +27,7 @@ pip install pyinstaller
 ```py
 pyinstaller --onefile win-pass-stealer.py
 ```
-## Step 3:
+### Step 3:
 Use it:
 
 ```py
