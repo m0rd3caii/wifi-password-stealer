@@ -12,8 +12,8 @@
 ```ps1
 PS> .\win-passwd-stealer.ps1
 
-Perfil1 | Contraseña1
-Perfil2 | Contraseña2
+Perfil1 | Password1
+Perfil2 | Password2
 ```
 ### Python Example:
 
@@ -32,8 +32,8 @@ Use it:
 
 ```py
 .\win-pass-stealer.exe
-Perfil1 | Contraseña1
-Perfil2 | Contraseña2
+Perfil1 | Password1
+Perfil2 | Password2
 ```
 Or just use it without making it executable
 
